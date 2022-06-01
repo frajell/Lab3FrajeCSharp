@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qi3LXBJxcRUGcifcJmv3mGl6z8vwHgme21yXQjj9SlMTPoz1fMF+grbZavr3+K2WVsSu5sfjbpGiR9NLq27Ckw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fredr\\source\\repos\\Lab3FrajeMaj\\Lab3Fraje.Console\\Lab3Fraje.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fredr\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
+    "C:\\Users\\fredr\\.nuget\\packages\\mongodb.bson\\2.14.1\\mongodb.bson.2.14.1.nupkg.sha512",
+    "C:\\Users\\fredr\\.nuget\\packages\\mongodb.driver\\2.14.1\\mongodb.driver.2.14.1.nupkg.sha512",
+    "C:\\Users\\fredr\\.nuget\\packages\\mongodb.driver.core\\2.14.1\\mongodb.driver.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\fredr\\.nuget\\packages\\mongodb.libmongocrypt\\1.3.0\\mongodb.libmongocrypt.1.3.0.nupkg.sha512",
+    "C:\\Users\\fredr\\.nuget\\packages\\sharpcompress\\0.30.1\\sharpcompress.0.30.1.nupkg.sha512",
+    "C:\\Users\\fredr\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\fredr\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\fredr\\source\\repos\\Lab3FrajeMaj\\Lab3Fraje.Console\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
+}

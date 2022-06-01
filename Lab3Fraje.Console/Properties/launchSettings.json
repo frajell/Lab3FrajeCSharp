@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Lab3Fraje.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "-remove kapitel svenska sko"
+    }
+  }
+}
